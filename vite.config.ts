@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/michelin-restaurant-management-system/', // например: '/my-app/'
+  base: '/michelin-restaurant-management-system/',
 })
