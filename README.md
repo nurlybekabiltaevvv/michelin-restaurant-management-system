@@ -41,29 +41,6 @@ npm run preview
 
 Dev-сервер будет доступен по адресу: `http://localhost:5173`
 
-## Структура проекта
-
-
-.
-├── public/              # Статические файлы
-├── src/
-│   ├── components/      # React компоненты
-│   ├── pages/          # Страницы приложения
-│   ├── hooks/          # Кастомные хуки
-│   ├── store/          # Zustand store
-│   ├── utils/          # Утилиты
-│   ├── App.tsx         # Главный компонент
-│   └── main.tsx        # Точка входа
-├── .github/
-│   └── workflows/
-│       └── deploy.yml  # GitHub Actions для деплоя
-├── index.html
-├── package.json
-├── tailwind.config.js
-├── tsconfig.json
-└── vite.config.ts
-
-
 ## Деплой на GitHub Pages
 
 ### Автоматический деплой через GitHub Actions
