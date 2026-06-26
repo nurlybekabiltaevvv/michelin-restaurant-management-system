@@ -17,7 +17,8 @@
 
 bash
 # Клонируйте репозиторий
-git clone https://github.com/ваш-username/название-репозитория.git
+git clone https://github.com/nurlbekabiltaevvv/michelin-restaurant-management-system
+.git
 
 # Перейдите в директорию
 cd название-репозитория
